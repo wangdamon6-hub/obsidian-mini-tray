@@ -26,12 +26,7 @@ I wanted **one thing**: the close button should minimize to tray instead of quit
 
 1. Download `main.js` and `manifest.json`
 2. Put them in: `.obsidian/plugins/mini-tray/`
-3. **Install `@electron/remote`** (required — same as original `obsidian-tray`):
-   ```bash
-   cd "C:\Users\YOURNAME\AppData\Local\Programs\Obsidian\resources\app.asar.unpacked"
-   npm install @electron/remote
-   ```
-4. Restart Obsidian → Settings → Community plugins → Enable **Mini Tray**
+3. Restart Obsidian → Settings → Community plugins → Enable **Mini Tray**
 
 ## 📄 Credits
 
