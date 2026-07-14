@@ -1,0 +1,10 @@
+{
+  "id": "mini-tray",
+  "name": "Mini Tray",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Close Obsidian to system tray. ~5 KB, zero config.",
+  "author": "Damon",
+  "authorUrl": "https://github.com/wangdamon6-hub/obsidian-mini-tray",
+  "isDesktopOnly": true
+}
